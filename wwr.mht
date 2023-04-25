@@ -1,0 +1,346 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://byui-wdd.github.io/wdd130/site-plan-templates/site-plan-rafting.html
+Subject: 
+Date: Tue, 25 Apr 2023 15:18:39 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--IaUwAxevkDHtd26fmHse7YDTzCyO4lQ1Bxj2IdvLx5----"
+
+
+------MultipartBoundary--IaUwAxevkDHtd26fmHse7YDTzCyO4lQ1Bxj2IdvLx5----
+Content-Type: text/html
+Content-ID: <frame-732216CCF02390416A289E02948EE352@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://byui-wdd.github.io/wdd130/site-plan-templates/site-plan-rafting.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
+div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
+class=3D"line-wrap-control">Line wrap<input type=3D"checkbox" aria-label=3D=
+"Line wrap"></label></form><table><tbody><tr><td class=3D"line-number" valu=
+e=3D"1"></td><td class=3D"line-content"><span class=3D"html-doctype">&lt;!D=
+OCTYPE html&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2"><=
+/td><td class=3D"line-content"><span class=3D"html-tag">&lt;html <span clas=
+s=3D"html-attribute-name">lang</span>=3D"<span class=3D"html-attribute-valu=
+e">en-us</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"3"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-num=
+ber" value=3D"4"></td><td class=3D"line-content"><span class=3D"html-tag">&=
+lt;head&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"5"></td>=
+<td class=3D"line-content">  <span class=3D"html-tag">&lt;meta <span class=
+=3D"html-attribute-name">charset</span>=3D"<span class=3D"html-attribute-va=
+lue">utf-8</span>" /&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"6"></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;titl=
+e&gt;</span>Site Plan<span class=3D"html-tag">&lt;/title&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"7"></td><td class=3D"line-content"=
+>  <span class=3D"html-tag">&lt;link <span class=3D"html-attribute-name">ty=
+pe</span>=3D"<span class=3D"html-attribute-value">text/css</span>" <span cl=
+ass=3D"html-attribute-name">rel</span>=3D"<span class=3D"html-attribute-val=
+ue">stylesheet</span>" <span class=3D"html-attribute-name">href</span>=3D"<=
+a class=3D"html-attribute-value html-resource-link" target=3D"_blank" href=
+=3D"https://byui-wdd.github.io/wdd130/site-plan-templates/styles/site-plan-=
+rafting.css" rel=3D"noreferrer noopener">styles/site-plan-rafting.css</a>" =
+/&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"8"></td><td cl=
+ass=3D"line-content"><span class=3D"html-tag">&lt;/head&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"9"></td><td class=3D"line-content">=
+<br></td></tr><tr><td class=3D"line-number" value=3D"10"></td><td class=3D"=
+line-content"><span class=3D"html-tag">&lt;body&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"11"></td><td class=3D"line-content">  <span=
+ class=3D"html-tag">&lt;header&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"12"></td><td class=3D"line-content">    <span class=3D"html-=
+tag">&lt;h1&gt;</span>[Site name] Site Plan<span class=3D"html-tag">&lt;/h1=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"13"></td><td cl=
+ass=3D"line-content">    <span class=3D"html-tag">&lt;h2&gt;</span>[FirstNa=
+me LastName]<span class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"14"></td><td class=3D"line-content">    <span =
+class=3D"html-tag">&lt;h2&gt;</span>WDD 130-[section]<span class=3D"html-ta=
+g">&lt;/h2&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"15"><=
+/td><td class=3D"line-content">    <span class=3D"html-comment">&lt;!-- In =
+the header above, add the name of your site, your name and class number. Fo=
+r example if you are in section 3 you would put WDD 130-03 --&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"16"></td><td class=3D"line-co=
+ntent">  <span class=3D"html-tag">&lt;/header&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"17"></td><td class=3D"line-content">  <span c=
+lass=3D"html-tag">&lt;main&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"18"></td><td class=3D"line-content">    <span class=3D"html-comm=
+ent">&lt;!-- ------------------------Steps 2-5-----------------------------=
+- --&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"19"></td><t=
+d class=3D"line-content">    <span class=3D"html-tag">&lt;hr /&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"20"></td><td class=3D"line-c=
+ontent">    <span class=3D"html-tag">&lt;h2&gt;</span>Overview<span class=
+=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"21"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;=
+h3&gt;</span>Purpose<span class=3D"html-tag">&lt;/h3&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"22"></td><td class=3D"line-content">  =
+  <span class=3D"html-tag">&lt;p&gt;</span>[Your purpose here]<span class=
+=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"23"></td><td class=3D"line-content">    <span class=3D"html-comment">&=
+lt;!-- change this --&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"24"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"li=
+ne-number" value=3D"25"></td><td class=3D"line-content">    <span class=3D"=
+html-tag">&lt;h3&gt;</span>Audience<span class=3D"html-tag">&lt;/h3&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"26"></td><td class=3D"l=
+ine-content">    <span class=3D"html-tag">&lt;p&gt;</span>[Your audience he=
+re]<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"27"></td><td class=3D"line-content">    <span class=3D"h=
+tml-comment">&lt;!-- change this --&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"28"></td><td class=3D"line-content"><br></td></tr><tr><=
+td class=3D"line-number" value=3D"29"></td><td class=3D"line-content">    <=
+span class=3D"html-tag">&lt;hr /&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"30"></td><td class=3D"line-content">    <span class=3D"htm=
+l-tag">&lt;h2&gt;</span>Branding<span class=3D"html-tag">&lt;/h2&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"31"></td><td class=3D"line=
+-content">    <span class=3D"html-tag">&lt;h3&gt;</span>Website Logo<span c=
+lass=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"32"></td><td class=3D"line-content">    <span class=3D"html-comme=
+nt">&lt;!-- Replace this with some sort of logo for your site.  A logo can =
+be as simple as the name of your site in a nice font :) --&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"33"></td><td class=3D"line-conte=
+nt">    <span class=3D"html-tag">&lt;img <span class=3D"html-attribute-name=
+">src</span>=3D"<a class=3D"html-attribute-value html-resource-link" target=
+=3D"_blank" href=3D"https://byui-wdd.github.io/wdd130/rafting_images/dryoar=
+logo.png" rel=3D"noreferrer noopener">https://byui-wdd.github.io/wdd130/raf=
+ting_images/dryoarlogo.png</a>" <span class=3D"html-attribute-name">alt</sp=
+an>=3D"<span class=3D"html-attribute-value">Logo image</span>" /&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"34"></td><td class=3D"line=
+-content">    <span class=3D"html-tag">&lt;hr /&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"35"></td><td class=3D"line-content">    <sp=
+an class=3D"html-tag">&lt;h2&gt;</span>Style Guide<span class=3D"html-tag">=
+&lt;/h2&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"36"></td=
+><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" val=
+ue=3D"37"></td><td class=3D"line-content">    <span class=3D"html-comment">=
+&lt;!-- ------------------------Steps 6-9------------------------------ --&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"38"></td><td cla=
+ss=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"39=
+"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;h3&gt;</=
+span>Color Palette<span class=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"40"></td><td class=3D"line-content">    =
+<span class=3D"html-comment">&lt;!--  The colors you choose for a website a=
+re one of the most important decisions you will make. Follow the instructio=
+ns on the activity in Canvas then return and replace the color codes below =
+with the hex color codes (the 6 digit numbers that show at the bottom of ea=
+ch color) for the colors you have chosen below.  You should have at least 2=
+ colors but do not have to fill in all 4 if you do not need them.  --&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"41"></td><td class=3D=
+"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"42"></t=
+d><td class=3D"line-content">    <span class=3D"html-comment">&lt;!-- Copy =
+and paste the URL to your finished palette below. Replace the href value th=
+at is there with yours. Make sure to paste it into both the href value and =
+the content text of the &lt;a&gt; tag --&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"43"></td><td class=3D"line-content">    <span cla=
+ss=3D"html-tag">&lt;p&gt;</span>Palette URL:<span class=3D"html-tag">&lt;/p=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"44"></td><td cl=
+ass=3D"line-content">    <span class=3D"html-tag">&lt;a <span class=3D"html=
+-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-exter=
+nal-link" target=3D"_blank" href=3D"https://coolors.co/396e94-e7c24f-a43312=
+-381d2a-aabd8c" rel=3D"noreferrer noopener">https://coolors.co/396e94-e7c24=
+f-a43312-381d2a-aabd8c</a>"</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"45"></td><td class=3D"line-content">      <span class=3D"html-attri=
+bute-name">target</span>=3D"<span class=3D"html-attribute-value">_blank</sp=
+an>"&gt;https://coolors.co/396e94-e7c24f-a43312-381d2a-aabd8c<span class=3D=
+"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"46"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line=
+-number" value=3D"47"></td><td class=3D"line-content">    <span class=3D"ht=
+ml-tag">&lt;table <span class=3D"html-attribute-name">class</span>=3D"<span=
+ class=3D"html-attribute-value">colors</span>"&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"48"></td><td class=3D"line-content">      <s=
+pan class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"49"></td><td class=3D"line-content">        <span class=3D"ht=
+ml-tag">&lt;th&gt;</span>Primary<span class=3D"html-tag">&lt;/th&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"50"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;th&gt;</span>Secondary<span =
+class=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"51"></td><td class=3D"line-content">        <span class=3D"html-=
+tag">&lt;th&gt;</span>Accent 1<span class=3D"html-tag">&lt;/th&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"52"></td><td class=3D"line-c=
+ontent">        <span class=3D"html-tag">&lt;th&gt;</span>Accent 2<span cla=
+ss=3D"html-tag">&lt;/th&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"53"></td><td class=3D"line-content">      <span class=3D"html-tag">=
+&lt;/tr&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"54"></td=
+><td class=3D"line-content">      <span class=3D"html-comment">&lt;!-- Repl=
+ace the numbers in the boxes below with your hex color codes. Then switch t=
+o the site-plan.css file and change your colors there as well. --&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"55"></td><td class=3D"lin=
+e-content">      <span class=3D"html-tag">&lt;tr&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"56"></td><td class=3D"line-content">      =
+  <span class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">class=
+</span>=3D"<span class=3D"html-attribute-value">primary</span>"&gt;</span>[=
+#396E94]<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"57"></td><td class=3D"line-content">        <span=
+ class=3D"html-tag">&lt;td <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">secondary</span>"&gt;</span>[#E7C2=
+4F]<span class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"58"></td><td class=3D"line-content">        <span class=
+=3D"html-tag">&lt;td <span class=3D"html-attribute-name">class</span>=3D"<s=
+pan class=3D"html-attribute-value">accent1</span>"&gt;</span>[#A43312]<span=
+ class=3D"html-tag">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"59"></td><td class=3D"line-content">        <span class=3D"html=
+-tag">&lt;td <span class=3D"html-attribute-name">class</span>=3D"<span clas=
+s=3D"html-attribute-value">accent2</span>"&gt;</span><span class=3D"html-ta=
+g">&lt;/td&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"60"><=
+/td><td class=3D"line-content">      <span class=3D"html-tag">&lt;/tr&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"61"></td><td class=3D=
+"line-content">    <span class=3D"html-tag">&lt;/table&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"62"></td><td class=3D"line-content">=
+<br></td></tr><tr><td class=3D"line-number" value=3D"63"></td><td class=3D"=
+line-content">    <span class=3D"html-comment">&lt;!-- --------------------=
+----Steps 10-12------------------------------ --&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"64"></td><td class=3D"line-content"><br></=
+td></tr><tr><td class=3D"line-number" value=3D"65"></td><td class=3D"line-c=
+ontent">    <span class=3D"html-tag">&lt;h3&gt;</span>Typography<span class=
+=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"66"></td><td class=3D"line-content">    <span class=3D"html-comment">=
+&lt;!-- Choose a font for your paragraphs (body copy) and headlines. What f=
+ont(s) have you chosen? Think also about which of your colors above you mig=
+ht use for background and font colors. --&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"67"></td><td class=3D"line-content"><br></td></tr=
+><tr><td class=3D"line-number" value=3D"68"></td><td class=3D"line-content"=
+>    <span class=3D"html-tag">&lt;h4&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"69"></td><td class=3D"line-content">      Heading Font=
+: [Font Name here]</td></tr><tr><td class=3D"line-number" value=3D"70"></td=
+><td class=3D"line-content">      <span class=3D"html-comment">&lt;!-- chan=
+ge this --&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"71"><=
+/td><td class=3D"line-content">    <span class=3D"html-tag">&lt;/h4&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"72"></td><td class=3D"l=
+ine-content">    <span class=3D"html-tag">&lt;h4&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"73"></td><td class=3D"line-content">      =
+Paragraph Font: [Font Name here]</td></tr><tr><td class=3D"line-number" val=
+ue=3D"74"></td><td class=3D"line-content">      <span class=3D"html-comment=
+">&lt;!-- change this --&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"75"></td><td class=3D"line-content">    <span class=3D"html-tag">&=
+lt;/h4&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"76"></td>=
+<td class=3D"line-content">    <span class=3D"html-tag">&lt;h3&gt;</span>No=
+rmal paragraph example<span class=3D"html-tag">&lt;/h3&gt;</span></td></tr>=
+<tr><td class=3D"line-number" value=3D"77"></td><td class=3D"line-content">=
+    <span class=3D"html-tag">&lt;p&gt;</span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"78"></td><td class=3D"line-content">      The best White=
+water Rafting in Colorado, White Water Rafting Company</td></tr><tr><td cla=
+ss=3D"line-number" value=3D"79"></td><td class=3D"line-content">      offer=
+s rafting on the Colorado and Roaring Fork Rivers in Glenwood</td></tr><tr>=
+<td class=3D"line-number" value=3D"80"></td><td class=3D"line-content">    =
+  Springs. Since 1974, we have been family owned and operated, rafting the<=
+/td></tr><tr><td class=3D"line-number" value=3D"81"></td><td class=3D"line-=
+content">      Shoshone section of Glenwood Canyon and beyond.</td></tr><tr=
+><td class=3D"line-number" value=3D"82"></td><td class=3D"line-content">   =
+ <span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"83"></td><td class=3D"line-content">    <span class=3D"htm=
+l-tag">&lt;h3&gt;</span>Colored paragraph example<span class=3D"html-tag">&=
+lt;/h3&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"84"></td>=
+<td class=3D"line-content">    <span class=3D"html-tag">&lt;p <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">colored</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"85"></td><td class=3D"line-content">      Trips vary from mild and grea=
+t for families, to trips exclusively for</td></tr><tr><td class=3D"line-num=
+ber" value=3D"86"></td><td class=3D"line-content">      physically fit and =
+experienced rafters. No matter what type of river</td></tr><tr><td class=3D=
+"line-number" value=3D"87"></td><td class=3D"line-content">      adventures=
+ you are seeking, White Water Rafting Company can make it</td></tr><tr><td =
+class=3D"line-number" value=3D"88"></td><td class=3D"line-content">      ha=
+ppen for you.</td></tr><tr><td class=3D"line-number" value=3D"89"></td><td =
+class=3D"line-content">    <span class=3D"html-tag">&lt;/p&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"90"></td><td class=3D"line-conte=
+nt"><br></td></tr><tr><td class=3D"line-number" value=3D"91"></td><td class=
+=3D"line-content">    <span class=3D"html-comment">&lt;!-- ----------------=
+--------Step 13------------------------------ --&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"92"></td><td class=3D"line-content"><br></=
+td></tr><tr><td class=3D"line-number" value=3D"93"></td><td class=3D"line-c=
+ontent">    <span class=3D"html-tag">&lt;h3&gt;</span>Navigation<span class=
+=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"94"></td><td class=3D"line-content">    <span class=3D"html-comment">=
+&lt;!-- Think about how you want your navigation bar to look. In the site-p=
+lan.css file change the colors to your colors to get the look you desire. -=
+-&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"95"></td><td c=
+lass=3D"line-content">    <span class=3D"html-tag">&lt;nav&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"96"></td><td class=3D"line-conte=
+nt">      <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name=
+">href</span>=3D"<a class=3D"html-attribute-value html-external-link" targe=
+t=3D"_blank" href=3D"https://byui-wdd.github.io/wdd130/site-plan-templates/=
+site-plan-rafting.html#" rel=3D"noreferrer noopener">#</a>"&gt;</span>Home<=
+span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"97"></td><td class=3D"line-content">      <span class=3D"htm=
+l-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D=
+"html-attribute-value html-external-link" target=3D"_blank" href=3D"https:/=
+/byui-wdd.github.io/wdd130/site-plan-templates/site-plan-rafting.html#" rel=
+=3D"noreferrer noopener">#</a>"&gt;</span>Page2<span class=3D"html-tag">&lt=
+;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"98"></td><td=
+ class=3D"line-content">      <span class=3D"html-tag">&lt;a <span class=3D=
+"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-=
+external-link" target=3D"_blank" href=3D"https://byui-wdd.github.io/wdd130/=
+site-plan-templates/site-plan-rafting.html#" rel=3D"noreferrer noopener">#<=
+/a>"&gt;</span>Contact Us<span class=3D"html-tag">&lt;/a&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"99"></td><td class=3D"line-content=
+">    <span class=3D"html-tag">&lt;/nav&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"100"></td><td class=3D"line-content">    <span cl=
+ass=3D"html-tag">&lt;hr /&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"101"></td><td class=3D"line-content">    <span class=3D"html-tag"=
+>&lt;h2&gt;</span>Site Map<span class=3D"html-tag">&lt;/h2&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"102"></td><td class=3D"line-cont=
+ent">    <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-nam=
+e">class</span>=3D"<span class=3D"html-attribute-value">sitemap</span>"&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"103"></td><td class=
+=3D"line-content">      <span class=3D"html-tag">&lt;div <span class=3D"htm=
+l-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">sm-h=
+ome</span>"&gt;</span>Home<span class=3D"html-tag">&lt;/div&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"104"></td><td class=3D"line-con=
+tent">      <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-=
+name">class</span>=3D"<span class=3D"html-attribute-value">sm-page2</span>"=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"105"></td><td c=
+lass=3D"line-content">        [Page2]</td></tr><tr><td class=3D"line-number=
+" value=3D"106"></td><td class=3D"line-content">        <span class=3D"html=
+-comment">&lt;!-- this page will have a name later --&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"107"></td><td class=3D"line-content">=
+      <span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"108"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">sm-page3</span>"&gt;</span>Contact=
+ Us<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"109"></td><td class=3D"line-content"><br></td></tr><tr=
+><td class=3D"line-number" value=3D"110"></td><td class=3D"line-content">  =
+    <span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">cl=
+ass</span>=3D"<span class=3D"html-attribute-value">top</span>"&gt;</span>&a=
+mp;nbsp;<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"111"></td><td class=3D"line-content">      <span =
+class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">left</span>"&gt;</span>&amp;nbsp;<=
+span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"112"></td><td class=3D"line-content">      <span class=3D"=
+html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span=
+ class=3D"html-attribute-value">right</span>"&gt;</span>&amp;nbsp;<span cla=
+ss=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"113"></td><td class=3D"line-content">    <span class=3D"html-tag">=
+&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"114"></=
+td><td class=3D"line-content">    <span class=3D"html-tag">&lt;hr /&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"115"></td><td class=3D"=
+line-content">    <span class=3D"html-tag">&lt;h2&gt;</span>Wireframes<span=
+ class=3D"html-tag">&lt;/h2&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"116"></td><td class=3D"line-content">    <span class=3D"html-co=
+mment">&lt;!-- Create an additional wireframe for your site. List it here b=
+elow the Home page wireframe. --&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"117"></td><td class=3D"line-content"><br></td></tr><tr><td=
+ class=3D"line-number" value=3D"118"></td><td class=3D"line-content">    <s=
+pan class=3D"html-tag">&lt;h3&gt;</span>Home<span class=3D"html-tag">&lt;/h=
+3&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"119"></td><td =
+class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D=
+"120"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;img =
+<span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attribut=
+e-value html-resource-link" target=3D"_blank" href=3D"https://byui-wdd.gith=
+ub.io/wdd130/rafting_images/wireframe_home.png" rel=3D"noreferrer noopener"=
+>https://byui-wdd.github.io/wdd130/rafting_images/wireframe_home.png</a>" <=
+span class=3D"html-attribute-name">alt</span>=3D"<span class=3D"html-attrib=
+ute-value">home page wireframe</span>" /&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"121"></td><td class=3D"line-content"><br></td></t=
+r><tr><td class=3D"line-number" value=3D"122"></td><td class=3D"line-conten=
+t">    <span class=3D"html-tag">&lt;h3&gt;</span>[Page 2]<span class=3D"htm=
+l-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"1=
+23"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-num=
+ber" value=3D"124"></td><td class=3D"line-content">    <span class=3D"html-=
+comment">&lt;!-- &lt;img src=3D"#" alt=3D"page 2 wireframe"&gt; --&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"125"></td><td class=3D"l=
+ine-content">  <span class=3D"html-tag">&lt;/main&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"126"></td><td class=3D"line-content"><spa=
+n class=3D"html-tag">&lt;/body&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"127"></td><td class=3D"line-content"><br></td></tr><tr><td c=
+lass=3D"line-number" value=3D"128"></td><td class=3D"line-content"><span cl=
+ass=3D"html-tag">&lt;/html&gt;</span><span class=3D"html-end-of-file"></spa=
+n></td></tr></tbody></table></body></html>
+------MultipartBoundary--IaUwAxevkDHtd26fmHse7YDTzCyO4lQ1Bxj2IdvLx5------
