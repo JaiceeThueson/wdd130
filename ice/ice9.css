@@ -1,0 +1,27 @@
+.card{
+    border-radius: 15px
+}
+.wide{
+    width: 100%;
+}
+h1{
+    margin: 0 auto;
+    font-size: small;
+    color: rgb(88, 147, 226);
+}
+h2{
+    margin: 0 auto;
+    font-size: x-large;
+    color: black;
+}
+p{
+    color: rgb(198, 190, 181);
+    padding: 1em;
+}
+
+body{
+    max-width: 250px;
+    text-align: center;
+    margin: 0 auto;
+}
+
