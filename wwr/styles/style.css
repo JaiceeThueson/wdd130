@@ -215,16 +215,7 @@ footer .social img {
     height: 725px;
     background-color: #f1d66a
 }
-/* 
-#first-img {
-    margin: 0 auto;
-    display: block;
-    max-width: 1600px;
-     margin: 100px 0;
-    grid-column: 2/7;
-    grid-row: 5/8;
-    box-shadow: 5px 5px 10px #6f7364;
-} */
+
 
 #banner {
     position: relative;
@@ -244,6 +235,10 @@ footer .social img {
     padding: 35px;
     box-shadow: 5px 5px 10px #6f7364;
     grid-column: 1/4;
+}
+.banner-description {
+    text-align: right;
+    font-size: large;
 }
 #first-img {
     margin: 100px 0;
