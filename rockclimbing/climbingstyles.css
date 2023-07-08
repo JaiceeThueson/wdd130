@@ -4,6 +4,7 @@ body {
     font-size: 22px;
     padding: 0;
     margin: 0;
+    font-display: Quicksand;
 }
 #logo-link {
     padding-top: 5px;
@@ -14,7 +15,7 @@ header {
     display: grid;
     grid-template-columns: 150px auto;
     background-color: #AED6F1;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Quicksand, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 nav {
     display: flex;
@@ -40,22 +41,27 @@ nav a:hover {
 #banner-box {
     background-color: #5D757C;
 }
-
-.banner-title {
-    font-family: 'Helvetica Rounded', 'Bradley Hand', sans-serif;
+#banner-box h1 {
+    font-family: Quicksand, arvo;
     font-size: 2em;
-    margin-top: 10px;
+    margin-top: auto;
     color: black;
+    padding-left: 10%;
+    color: white;
 }
-.banner-title h3 {
-    color: black;
-    font-family: 'Georgia', 'Times New Roman', Times, serif;
+#banner-box h3 {
+  color:  #e66138;
+  font-family: 'Georgia', 'Times New Roman', Times, serif;
+  padding-left: 5%;
+  padding-bottom: 5%;
 }
+
 .banner-msg p:nth-of-type(1) {
     text-align: center;
     font-size: 250%;
     margin-left: 25%;
     margin-right: 25%;
+    color: white;
 }
 #first-img {
     display: block;
@@ -107,7 +113,7 @@ p:nth-of-type(1) {
     transform: scale(1.1);
 }
 footer {
-    background-color: #e66138;
+    background-color:  #AED6F1;
     color:  rgb(255, 255, 255);
     padding: 25px 50px;
     margin-top: 200px;
@@ -115,6 +121,7 @@ footer {
     justify-content: space-around;
     align-items: center;
     align-items: left;
+    font-family: Quicksand;
 }
 
 footer a { 
@@ -220,3 +227,59 @@ footer p a:hover {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.header-grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns with equal width */
+  grid-gap: 10px; /* Gap between grid items (adjust as needed) */
+}
+.grid-title {
+  font-size: 4em;
+  margin-left: 10%;
+  align-items: center;
+}
+.grid-explain {
+  margin-right: 10%;
+  align-items: center;
+  margin-top: 10px;
+
+}
+.training-grid {
+  display: flex;
+  flex-direction: column;
+}
+
+.tip {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+/* .circle {
+  line-height: 120px;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 32px;
+  border: 15px solid #000;
+} */
+p span {
+  color: black;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.container {
+  background-color: #aabd8c;
+  height: 700px; 
+  margin: 0 auto;
+}
+.container img:first-child {
+  padding: 10%;
+  z-index: 1;
+}
+.container img:last-child {
+  padding: 10%;
+  z-index: 2;
+}
+
+
