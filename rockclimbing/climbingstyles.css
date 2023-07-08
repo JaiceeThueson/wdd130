@@ -237,32 +237,27 @@ footer p a:hover {
   font-size: 4em;
   margin-left: 10%;
   align-items: center;
-}
+  }
 .grid-explain {
   margin-right: 10%;
   align-items: center;
   margin-top: 10px;
-
+  
+  
 }
 .training-grid {
   display: flex;
   flex-direction: column;
 }
-
+  
+  
 .tip {
   display: flex;
   align-items: center;
   gap: 10px;
   margin-bottom: 10px;
 }
-
-/* .circle {
-  line-height: 120px;
-  border-radius: 50%;
-  text-align: center;
-  font-size: 32px;
-  border: 15px solid #000;
-} */
+  
 p span {
   color: black;
   font-size: 1.2em;
@@ -275,11 +270,7 @@ p span {
 }
 .container img:first-child {
   padding: 10%;
-  z-index: 1;
-}
-.container img:last-child {
-  padding: 10%;
-  z-index: 2;
+  
 }
 
 
