@@ -4,7 +4,7 @@ body {
     font-size: 22px;
     padding: 0;
     margin: 0;
-    font-display: Quicksand;
+    /* font-display: Quicksand; */
 }
 #logo-link {
     padding-top: 5px;
@@ -42,12 +42,12 @@ nav a:hover {
     background-color: #5D757C;
 }
 #banner-box h1 {
-    font-family: Quicksand, arvo;
+    font-family: Quicksand, arvo, sans-serif;
     font-size: 2em;
     margin-top: auto;
     color: black;
     padding-left: 10%;
-    color: white;
+    color: #FFFAF5;
 }
 #banner-box h3 {
   color:  #e66138;
@@ -61,12 +61,13 @@ nav a:hover {
     font-size: 250%;
     margin-left: 25%;
     margin-right: 25%;
-    color: white;
+    color: #FFFAF5;
 }
 #first-img {
     display: block;
     max-width: 1600px;
     margin-left: 60%;
+    
 }
 main {
     margin: 0 auto;
@@ -90,7 +91,7 @@ main {
     flex-direction: column; 
     align-items: center;
     text-align: center;
-    margin: 200px 0;
+    margin: 20px 0;
     
   }
 p:nth-of-type(1) {
@@ -119,9 +120,8 @@ footer {
     margin-top: 200px;
     display: flex;
     justify-content: space-around;
-    align-items: center;
     align-items: left;
-    font-family: Quicksand;
+    font-family: Quicksand, arvo, sans-serif;
 }
 
 footer a { 
@@ -242,15 +242,12 @@ footer p a:hover {
   margin-right: 10%;
   align-items: center;
   margin-top: 10px;
-  
-  
 }
 .training-grid {
   display: flex;
   flex-direction: column;
 }
-  
-  
+
 .tip {
   display: flex;
   align-items: center;
