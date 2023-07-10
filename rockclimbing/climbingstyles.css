@@ -270,4 +270,42 @@ p span {
   
 }
 
+/* beginning of gear page  */
+#heading {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+#heading p{
+  background-color: #aabd8c;
+  padding: 5px;
+}
+.gear-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.gear-grid section {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.gear-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.gallary-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.gear-grid p {
+  padding: 10px;
+}
+
 
